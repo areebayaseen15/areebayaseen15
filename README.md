@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Areeba Yaseen</h1>
+<h1 align="center">Hi 👋,I'm Areeba Yaseen</h1>
 <h3 align="center">A passionate frontend developer And Aspiring AI Engineer from Pakistan</h3>
 
 <p align="left"> <a href="https://twitter.com/areebayaseen15" target="blank"><img src="https://img.shields.io/twitter/follow/areebayaseen15?logo=twitter&style=for-the-badge" alt="areebayaseen15" /></a> </p>
