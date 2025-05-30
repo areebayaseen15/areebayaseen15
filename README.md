@@ -73,3 +73,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=areebayaseen15&show_icons=true&locale=en" alt="areebayaseen15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=areebayaseen15&" alt="areebayaseen15" /></p>
+
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
