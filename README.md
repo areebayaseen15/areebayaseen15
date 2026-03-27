@@ -61,5 +61,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=areebayaseen15&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=areebayaseen15&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=areebayaseen15&theme=radical" />
 </p>
