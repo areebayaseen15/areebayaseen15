@@ -1,15 +1,15 @@
-<div align="center">
+<!-- <div align="center">
 
 # 👋 Hi, I'm Areeba Yaseen  
 ### 💻 Frontend Developer (Next.js | WordPress | HTML)  
 ### 🚀 Aspiring AI Engineer from Pakistan 🇵🇰  
 
-</div>
+</div> -->
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+Specialist;WordPress+Expert;AI+Explorer;Clean+UI+Lover" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+Developer;WordPress+Builder;AI+Explorer;Clean+UI+Lover" />
 </p>
 
 ---
