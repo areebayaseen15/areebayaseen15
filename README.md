@@ -13,8 +13,7 @@
 
 - 💼 Working as **Frontend Developer at Cheeltech**
 - 🧑‍💻 Building modern web apps using **Next.js, WordPress & HTML/CSS**
-- 🔭 Currently exploring **Agentic AI & OpenAI SDKs**
-- 🌱 Learning **Advanced JavaScript, Python & AI Systems**
+- 🔭 Currently exploring **Agentic AI**
 - 💬 Ask me about **Next.js, WordPress, TypeScript, Frontend Development**
 - 📂 My work: [GitHub Projects](https://github.com/areebayaseen15)
 - 📝 Writing tech insights: [Medium Blog](https://medium.com/@areebayaseen)
@@ -61,14 +60,14 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=areebayaseen15&layout=compact" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=areebayaseen15&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=areebayaseen15&show_icons=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebayaseen15&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=areebayaseen15" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=areebayaseen15&theme=tokyonight" />
 </p>
