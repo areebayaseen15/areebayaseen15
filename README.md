@@ -1,10 +1,8 @@
-<!-- <div align="center">
+<div align="center">
 
 # 👋 Hi, I'm Areeba Yaseen  
-### 💻 Frontend Developer (Next.js | WordPress | HTML)  
-### 🚀 Aspiring AI Engineer from Pakistan 🇵🇰  
 
-</div> -->
+</div> 
 
 ---
 
