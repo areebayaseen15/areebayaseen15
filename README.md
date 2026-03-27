@@ -1,84 +1,96 @@
-<h1 align="center">👋 Hi, I'm Areeba Yaseen</h1>
-<h3 align="center">💻 Frontend Developer (Next.js | WordPress | HTML) | Aspiring AI Engineer from Pakistan 🇵🇰</h3>
+<div align="center">
+
+# 👋 Hi, I'm Areeba Yaseen  
+### 💻 Frontend Developer (Next.js | WordPress | HTML)  
+### 🚀 Aspiring AI Engineer from Pakistan 🇵🇰  
+
+</div>
+
+---
 
 <p align="center">
-  <a href="https://twitter.com/areebayaseen15" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/areebayaseen15?logo=twitter&style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+Specialist;WordPress+Expert;AI+Explorer;Clean+UI+Lover" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://twitter.com/areebayaseen15">
+    <img src="https://img.shields.io/twitter/follow/areebayaseen15?style=for-the-badge&logo=twitter" />
+  </a>
+  <a href="mailto:areebayaseen15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-- 💼 Working as **Frontend Developer at Cheeltech**
-- 🧑‍💻 Building modern web apps using **Next.js, WordPress & HTML/CSS**
-- 🔭 Currently exploring **Agentic AI**
-- 💬 Ask me about **Next.js, WordPress, TypeScript, Frontend Development**
-- 📂 My work: [GitHub Projects](https://github.com/areebayaseen15)
-- 📝 Writing tech insights: [Medium Blog](https://medium.com/@areebayaseen)
-- 📫 Reach me: **areebayaseen15@gmail.com**
-- ⚡ Fun fact: *I love turning ideas into clean UI & scalable products*
+<div style="display:flex; flex-direction:column; gap:10px;">
+
+💼 Working as **Frontend Developer at Cheeltech**  
+🧑‍💻 Building scalable web apps using **Next.js & WordPress**  
+🔭 Currently exploring **Agentic AI & Automation Systems**  
+💬 Ask me about **Frontend, TypeScript, UI Engineering**  
+📝 Writing tech insights on Medium  
+⚡ Fun fact: I turn ideas into smooth UI experiences  
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<p style="display:flex; gap:14px; flex-wrap:wrap; align-items:center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+### ⚡ Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
 </p>
 
 ---
 
-### CMS / Backend
-<p style="display:flex; gap:14px; flex-wrap:wrap; align-items:center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+### ⚙️ CMS & Backend
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
 </p>
 
 ---
 
-### Design Tools
-<p style="display:flex; gap:14px; flex-wrap:wrap; align-items:center;">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+### 🎨 Design Tools
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p style="display:flex; gap:18px; flex-wrap:wrap; align-items:center;">
-  <a href="https://twitter.com/areebayaseen15">
-    <img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/>
-  </a>
-
-  <a href="https://linkedin.com/in/areeba-yaseen">
-    <img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
-  </a>
-
-  <a href="https://instagram.com/areebaquraishii15">
-    <img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
-  </a>
-
-  <a href="https://medium.com/@areebayaseen">
-    <img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"/>
-  </a>
+<p align="center">
+  <a href="https://twitter.com/areebayaseen15"><img width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></a>
+  <a href="https://linkedin.com/in/areeba-yaseen"><img width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
+  <a href="https://instagram.com/areebaquraishii15"><img width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
+  <a href="https://medium.com/@areebayaseen"><img width="35" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=areebayaseen15&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=areebayaseen15&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=areebayaseen15&theme=radical&hide_border=true" height="180"/>
 </p>
 
+---
+
+## 💡 Profile Vibe
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=areebayaseen15&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=areebayaseen15&theme=radical" />
 </p>
